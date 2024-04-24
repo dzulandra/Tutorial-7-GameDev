@@ -12,7 +12,7 @@
 
 [node name="Area" parent="." instance=ExtResource( 3 )]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -43.826, 0.131695, -0.240476 )
-sceneName = "Win Screen"
+sceneName = "WinScreen"
 
 [node name="Area2" parent="." instance=ExtResource( 3 )]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -23.7199, -9.11718, 8.98173 )
